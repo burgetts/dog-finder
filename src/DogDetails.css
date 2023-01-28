@@ -1,0 +1,10 @@
+.DogDetails {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.DogDetails-facts {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

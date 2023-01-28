@@ -1,0 +1,14 @@
+.Dogs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
